@@ -1,0 +1,7 @@
+.row{
+  justify-content: space-between;
+  flex-direction: column;
+}
+.main{
+  text-align: center;
+}
